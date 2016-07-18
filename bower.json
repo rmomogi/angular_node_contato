@@ -1,0 +1,23 @@
+{
+  "name": "contatooh",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Rodrigo Moraes de Oliveira <rmomogi@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/rails/rails-dev-box",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "bootstrap": "^3.3.6",
+    "angular-resource": "^1.5.7"
+  }
+}
